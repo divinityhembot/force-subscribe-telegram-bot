@@ -14,9 +14,9 @@ plugins = dict(
 
 app = Client(
      'ForceSubscribe',
-      bot_token = Config.BOT_TOKEN,
-      api_id = Config.APP_ID,
-      api_hash = Config.API_HASH,
+      bot_token = Config.1991551750:AAGqmsGTN2dkLAsX2riMs2oNNniTWECTuUI,
+      api_id = Config.2693321,
+      api_hash = Config.896fca4c49c96d923ed9680f55411f01,
       plugins = plugins
 )
 
